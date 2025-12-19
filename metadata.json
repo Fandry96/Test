@@ -1,0 +1,7 @@
+{
+  "name": "Cinematic Image Animator",
+  "description": "Transform your static photos into vibrant cinemagraphs and short films using Gemini Veo 3.1. Upload a photo, choose an aspect ratio, and watch your memories come to life.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
